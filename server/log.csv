@@ -1,0 +1,8 @@
+Agent,Time,Method,Resource,Version,Status
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:47.220Z,GET,/,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:47.220Z,GET,/,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:47.395Z,GET,/favicon.ico,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:47.220Z,GET,/,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:47.395Z,GET,/favicon.ico,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T22:10:53.786Z,GET,/logs,1.1,200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.115 Safari/537.36,2017-07-19T23:02:39.970Z,GET,/,1.1,200
